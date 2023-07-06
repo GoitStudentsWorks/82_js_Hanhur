@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Bookshelt/",
+    "build": "vite build --base=/82_js_Hanhur/",
     "preview": "vite preview"
   },
   "devDependencies": {
